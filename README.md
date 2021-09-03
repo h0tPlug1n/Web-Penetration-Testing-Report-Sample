@@ -10,3 +10,5 @@ This is Web Application Penetration Testing Report made for everybody who wanted
 ### `Risk Calculation & Classification`
 ### `Summary`
 ### `Details of a particular bug with POC(s)`
+
+Go through the attached pdf for detailed understanding.
