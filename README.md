@@ -1,6 +1,8 @@
 # Web-Penetration-Testing-Report---Sample
 This is Web Application Penetration Testing Report made for everybody who wanted a glance of how to make a professional report for pentetring purpose. The penetration testing has been done in a sample testable website. No system/organization has been harmed. The VAPT session has been conducted in a safe and simulated enivironment. Before performing any VAPT on any site, take prior permission to do so.
 
+`The Word file has also been given for you to modify your own report without making it from scratch.`
+
 ## Details required in the Report
 
 ### `Introduction`
